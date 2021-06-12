@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { useQuery } from 'react-query';
 import { useParams } from 'react-router';
 import { toast } from 'react-toastify';
@@ -16,15 +16,14 @@ export const Event = () => {
     return response;
   }, {
     refetchOnWindowFocus: false,
-    onError: () => {
+    onError: (error) => {
+      if (error.message === 'Network Error') {
+        return toast.error('Por favor, inicio o json-server.')
+      }
       toast.error('Ocorreu um erro, tente novamente.')
-    }
+    },
+    refetchOnReconnect: false,
   });
-
-  useEffect(() => {
-    console.log(data);
-  }, [data])
-
 
   if (isLoading) {
     return <Loading />

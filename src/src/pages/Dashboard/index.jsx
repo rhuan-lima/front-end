@@ -9,18 +9,20 @@ import { Container } from './styles';
 
 
 export const Dashboard = () => {
-
-
   const { data, isLoading } = useQuery('getEvents', async () => {
     const response = await api.get('/eventos');
     return response;
   }, {
     refetchOnWindowFocus: false,
-    onError: () => {
+    onError: (error) => {
+      if (error.message === 'Network Error') {
+        return toast.error('Por favor, inicio o json-server.')
+      }
       toast.error('Ocorreu um erro, tente novamente.')
     },
+    refetchOnReconnect: false,
   });
-
+  
   if (isLoading) {
     return <Loading />
   }
