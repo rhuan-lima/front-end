@@ -53,6 +53,9 @@ Deve-se ter node na versão LTS
     # Baixar dependências
     $ npm install
 
+    # Rodar banco de dados
+    $ npx json-server --watch db.json -p 3001   
+
     # Executar Projeto
     $ npm start
 
