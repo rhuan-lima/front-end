@@ -1,0 +1,88 @@
+{
+  "participantes":[
+     {
+        "id":1,
+        "nome":"Aluno 1",
+        "codicao":"novatos"
+     },
+     {
+        "id":2,
+        "nome":"Aluno 2",
+        "codicao":"reincidentes"
+     }
+  ],
+  "eventos":[
+     {
+        "id":1,
+        "nome":"ABC",
+        "edicoes": [
+          {
+            "id": 1,
+            "nome": "Desafio da taça",
+            "data": "01/02/2019",
+            "participantes": [
+              {
+                "id": 1,
+                "nome":"Aluno 1",
+                "codicao":"novatos"
+             },
+             {
+                "id": 2,
+                "nome": "Aluno 2",
+                "codicao":"reincidentes"
+             },
+             {
+              "id": 3,
+              "nome": "Aluno 3",
+              "codicao":"novato"
+           }
+            ]
+          },
+          {
+            "id": 2,
+            "nome": "O desafio agora é outro",
+            "data": "01/02/2020",
+            "participantes": [
+              {
+                "id": 1,
+                "nome":"Aluno 1",
+                "codicao":"novatos"
+             },
+             {
+                "id": 2,
+                "nome": "Aluno 2",
+                "codicao":"reincidentes"
+             },
+             {
+              "id": 3,
+              "nome": "Aluno 3",
+              "codicao":"novato"
+           }
+            ]
+          },
+          {
+            "id": 2,
+            "nome": "Desafie-se",
+            "data": "01/02/2021",
+            "participantes": [
+              {
+                "id": 1,
+                "nome":"Aluno 1",
+                "codicao":"novatos"
+             },
+             {
+                "id": 2,
+                "nome": "Aluno 2",
+                "codicao":"reincidentes"
+             },
+             {
+              "id": 3,
+              "nome": "Aluno 3",
+              "codicao":"novato"
+           }
+            ]
+          }
+        ]
+     }
+  ]
+}
