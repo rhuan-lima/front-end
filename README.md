@@ -17,7 +17,7 @@
 
 ## :computer: Projeto
 
-Essa é uma aplicação foi desenvolvida para o Hackaton FAM 2021.
+Nós da equipe 'Hello World', desenvolvemos essa aplicação para o desafio proposto do evento Hackathon FAM 2021 a fim de controlar e classificar os eventos e participantes de uma faculdade. Além disso, fornece uma estatística comparativa dos últimos eventos.
 
 <br/>
 
