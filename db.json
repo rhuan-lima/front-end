@@ -23,7 +23,7 @@
         "edicoes": [
           {
             "id": 1,
-            "nome": "Desafio da taça",
+            "nome": "1ª Edição - Um Novo Hackathon",
             "data": "01/02/2019",
             "participantes": [
               {
@@ -35,8 +35,8 @@
               {
                   "id": 2,
                   "nome": "Aluno 2",
-                  "condicao":"reincidente",
-                  "estrelas": 2
+                  "condicao":"novato",
+                  "estrelas": 1
               },
               {
                 "id": 3,
@@ -55,12 +55,120 @@
                 "nome": "Aluno 5",
                 "condicao":"novato",
                 "estrelas": 1
+              },
+              {
+                "id": 6,
+                "nome": "Aluno 6",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 7,
+                "nome": "Aluno 7",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 8,
+                "nome": "Aluno 8",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 9,
+                "nome": "Aluno 9",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 10,
+                "nome": "Aluno 10",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 11,
+                "nome": "Aluno 11",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 12,
+                "nome": "Aluno 12",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 13,
+                "nome": "Aluno 13",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 14,
+                "nome": "Aluno 14",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 15,
+                "nome": "Aluno 15",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 16,
+                "nome": "Aluno 16",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 17,
+                "nome": "Aluno 17",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 18,
+                "nome": "Aluno 18",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 19,
+                "nome": "Aluno 19",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 20,
+                "nome": "Aluno 20",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 21,
+                "nome": "Aluno 21",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 22,
+                "nome": "Aluno 22",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 23,
+                "nome": "Aluno 23",
+                "condicao":"novato",
+                "estrelas": 1
               }
             ]
           },
           {
             "id": 2,
-            "nome": "O desafio agora é outro",
+            "nome": "2ª Edição - O Hackathon Contra-Ataca",
             "data": "01/02/2020",
             "participantes": [
               {
@@ -73,47 +181,275 @@
                 "id": 2,
                 "nome": "Aluno 2",
                 "condicao":"reincidente",
-                "estrelas": 3
+                "estrelas": 2
               },
               {
                 "id": 3,
-                "nome": "Aluno Novo",
+                "nome": "Aluno 3",
                 "condicao":"novato",
                 "estrelas": 1
               },
               {
                 "id": 4,
-                "nome": "Aluno Novo",
+                "nome": "Aluno 4",
                 "condicao":"novato",
                 "estrelas": 1
               },
               {
                 "id": 5,
-                "nome": "Aluno Novo",
+                "nome": "Aluno 5",
                 "condicao":"novato",
                 "estrelas": 1
               },
               {
                 "id": 6,
-                "nome": "Aluno Novo",
+                "nome": "Aluno 6",
                 "condicao":"novato",
                 "estrelas": 1
               },
               {
                 "id": 7 ,
-                "nome": "Aluno Novo",
+                "nome": "Aluno 7",
                 "condicao":"novato",
                 "estrelas": 1
               },
               {
                 "id": 8,
-                "nome": "Aluno Novo",
+                "nome": "Aluno 8",
                 "condicao":"novato",
                 "estrelas": 1
               },
               {
                 "id": 9,
-                "nome": "Aluno Novo",
+                "nome": "Aluno 9",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 10,
+                "nome":"Aluno 10",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 11,
+                "nome": "Aluno 11",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 12,
+                "nome":"Aluno 12",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 13,
+                "nome": "Aluno 13",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 14,
+                "nome":"Aluno 14",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 15,
+                "nome":"Aluno 15",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 16,
+                "nome": "Aluno 16",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 17,
+                "nome":"Aluno 17",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 18,
+                "nome": "Aluno 18",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 19,
+                "nome":"Aluno 19",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 20,
+                "nome": "Aluno 20",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 21,
+                "nome":"Aluno 21",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 22,
+                "nome": "Aluno 22",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 23,
+                "nome":"Aluno 23",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 24,
+                "nome": "Aluno 24",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 25,
+                "nome":"Aluno 25",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 26,
+                "nome": "Aluno 26",
+                "condicao":"reincidente",
+                "estrelas": 2
+              },
+              {
+                "id": 27,
+                "nome":"Aluno 27",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 28,
+                "nome": "Aluno 28",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 29,
+                "nome":"Aluno 29",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 30,
+                "nome": "Aluno 30",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 31,
+                "nome": "Aluno 31",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 32,
+                "nome":"Aluno 32",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 33,
+                "nome": "Aluno 33",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 34,
+                "nome": "Aluno 34",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 35,
+                "nome":"Aluno 35",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 36,
+                "nome": "Aluno 36",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 37,
+                "nome":"Aluno 37",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 38,
+                "nome": "Aluno 38",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 39,
+                "nome": "Aluno 39",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 40,
+                "nome":"Aluno 40",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 41,
+                "nome": "Aluno 41",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 42,
+                "nome": "Aluno 42",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 43,
+                "nome": "Aluno 43",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 44,
+                "nome": "Aluno 44",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 45,
+                "nome":"Aluno 45",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 46,
+                "nome": "Aluno 46",
+                "condicao":"novato",
+                "estrelas": 1
+              },
+              {
+                "id": 47,
+                "nome": "Aluno 47",
                 "condicao":"novato",
                 "estrelas": 1
               }
@@ -121,7 +457,7 @@
           },
           {
             "id": 3,
-            "nome": "Desafie-se",
+            "nome": "3ª Edição - O Retorno do Hackathon",
             "data": "01/02/2021",
             "participantes": [
               {
@@ -130,17 +466,353 @@
                 "condicao":"novato",
                 "estrelas": 1
              },
-             {
+              {
                 "id": 2,
-                "nome": "Aluno 2",
-                "condicao":"reincidente",
-                "estrelas": 3
+                "nome":"Aluno 3",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 4,
+                "nome":"Aluno 4",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 5,
+                "nome":"Aluno 5",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 6,
+                "nome":"Aluno 6",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 7,
+                "nome":"Aluno 7",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 8,
+                "nome":"Aluno 8",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 9,
+                "nome":"Aluno 9",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 10,
+                "nome":"Aluno 10",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 11,
+                "nome":"Aluno 11",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 12,
+                "nome":"Aluno 12",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 13,
+                "nome":"Aluno 13",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 14,
+                "nome":"Aluno 14",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 15,
+                "nome":"Aluno 15",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 16,
+                "nome":"Aluno 16",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 17,
+                "nome":"Aluno 17",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 18,
+                "nome":"Aluno 18",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 19,
+                "nome":"Aluno 19",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 20,
+                "nome":"Aluno 20",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 21,
+                "nome":"Aluno 21",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 22,
+                "nome":"Aluno 22",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 23,
+                "nome":"Aluno 23",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 24,
+                "nome":"Aluno 24",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 25,
+                "nome":"Aluno 25",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 26,
+                "nome":"Aluno 26",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 27,
+                "nome":"Aluno 27",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 28,
+                "nome":"Aluno 28",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 29,
+                "nome":"Aluno 29",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 30,
+                "nome":"Aluno 30",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 31,
+                "nome":"Aluno 31",
+                "condicao":"novato",
+                "estrelas": 1
+             },
+              {
+                "id": 32,
+                "nome":"Aluno 1",
+                "condicao":"novato",
+                "estrelas": 1
              },
              {
-              "id": 3,
-              "nome": "Aluno 3",
-              "condicao":"novato",
-              "estrelas": 1
+                "id": 33,
+                "nome": "Aluno 33",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 34,
+                "nome": "Aluno 34",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 35,
+                "nome": "Aluno 35",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 36,
+                "nome": "Aluno 36",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 37,
+                "nome": "Aluno 37",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 38,
+                "nome": "Aluno 38",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 39,
+                "nome": "Aluno 39",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 40,
+                "nome": "Aluno 40",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 41,
+                "nome": "Aluno 41",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 42,
+                "nome": "Aluno 42",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 43,
+                "nome": "Aluno 43",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 44,
+                "nome": "Aluno 44",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 45,
+                "nome": "Aluno 45",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 45,
+                "nome": "Aluno 45",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 46,
+                "nome": "Aluno 46",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 47,
+                "nome": "Aluno 47",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+                "id": 48,
+                "nome": "Aluno 48",
+                "condicao":"reincidente",
+                "estrelas": 2
+             },
+             {
+              "id": 49,
+              "nome": "Aluno 49",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 50,
+              "nome": "Aluno 50",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 51,
+              "nome": "Aluno 51",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 52,
+              "nome": "Aluno 52",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 53,
+              "nome": "Aluno 53",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 54,
+              "nome": "Aluno 54",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 55,
+              "nome": "Aluno 55",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 56,
+              "nome": "Aluno 56",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 57,
+              "nome": "Aluno 57",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 58,
+              "nome": "Aluno 58",
+              "condicao":"reincidente",
+              "estrelas": 3
+           },
+             {
+              "id": 59,
+              "nome": "Aluno 59",
+              "condicao":"reincidente",
+              "estrelas": 3
            }
             ]
           }
